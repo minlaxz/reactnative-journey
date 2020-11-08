@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "setStateExtends",
-    "slug": "setStateExtends",
+    "name": "reactnative-project",
+    "slug": "reactnative-project",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
